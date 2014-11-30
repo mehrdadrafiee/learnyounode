@@ -1,4 +1,5 @@
 # Learn You The Node.js For Much Win!
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mehrdadrafiee/learnyounode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An intro to Node.js via a set of self-guided workshops.**
 
